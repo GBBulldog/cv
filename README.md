@@ -1,4 +1,4 @@
-# Richard Scrivens-Parry
+# Curriculum Vitae
 
 ## Personal Details
 - **Email Address**: [rescrivens@gmail.com](rescrivens@gmail.com)
