@@ -15,7 +15,7 @@
 ### Senior Web Developer, Reference Technology Ltd.
 #### *March 2012-Present*
 *Bespoke, in-house event management software with web-based administration system.*
-- On-going development of the in-house event management system built primarily upon PHP-FPM MariaDB.
+- On-going development of the in-house event management system built primarily upon PHP-FPM and MariaDB.
 - Front-end development in HTML, CSS and JQuery. XML and JSON for some parts of the system.
 - RESTful API's for external connectivity.
 - Some experience of Node.js in a smaller capacity.
