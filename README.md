@@ -3,8 +3,8 @@
 ## Personal Details
 - **Email Address**: [rescrivens@gmail.com](rescrivens@gmail.com)
 - **Social Media**: [LinkedIn](https://www.linkedin.com/in/richard-scrivens-parry-356847111/)
-- **Location**: Tamworth, Staffordshire
-- **Languages**: English, native speaker
+- **Location**: Tamworth, Staffordshire.
+- **Languages**: English, native speaker.
 
 ## Skills
 - **Coding**: PHP, SQL, Javascript, JQuery, Node.js, Nativescript.
