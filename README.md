@@ -8,7 +8,8 @@
 
 ## Skills
 - **Coding**: PHP, SQL, Javascript, JQuery, Node.js, Nativescript.
-- **Databases**: MySQL, SQL Server, MariaDB, MongoDB, CouchDB.
+- **Databases**: MySQL, SQL Server, MariaDB, MongoDB, CouchDB, Redis.
+- **Protocols & Messaging**: MQTT, Beanstalk, WebSockets, Exim.
 - **Web-Servers**: Nginx, Apache.
 - **Source Control**: Git, Subversion.
 - **Operating Systems and Applications**: Windows, Ubuntu, Docker, VSCode, Adobe Photoshop.
@@ -19,8 +20,9 @@
 *Bespoke, in-house event management software with web-based administration system.*
 - On-going development of the in-house event management system built primarily upon PHP-FPM and MariaDB.
 - Front-end development in HTML, CSS and JQuery. XML and JSON for some parts of the system.
+- MQTT for messaging between the web interface and native Windows desktop applications.
+- WebSockets and Node.js for data transfer between the backend and other linked systems.
 - RESTful API's for external connectivity.
-- Some experience of Node.js in a smaller capacity.
 - Database administration: MariaDB, MongoDB, CouchDB and Redis.
 - Dev-Ops and server management/maintenance: Nginx, Docker and Ubuntu.
 - Liaising with the Projects team to handle client expectations and issues.
@@ -48,11 +50,11 @@ I also plan on diving into AWS (EC2, RDS and S3), to further advance my skillset
 ## Education
 ### Coventry University, BSc. Computer Science *1997 - 2001*
 Part-completed course, including:
-- Systems programming
-- Mathematics for computing
-- Business information technology
-- Computer systems design
-- Database system concepts
+- Systems programming.
+- Mathematics for computing.
+- Business information technology.
+- Computer systems design.
+- Database system concepts.
 
 ### Queen Elizabeth's Mercian School, Tamworth *1992 - 1997*
 - 7 GCSE’s, including Maths, English Language, English Literature and Science.
